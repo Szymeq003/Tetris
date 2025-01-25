@@ -38,11 +38,12 @@ Celem gry jest układanie spadających klocków w pełne linie, które następni
    - Podświetlanie zwycięzcy: Podświetla zwycięskie pola.
 
 ## Struktura plików
-   Tetris/
-   ├── index.html
-   ├── style.css
-   ├── script.js
-   ├── README.md
+    Tetris/
+      ├── index.html
+      ├── style.css
+      ├── script.js
+      └── README.md
+
 
 ## Autor
 - [Szymon Pyrz](https://github.com/Szymeq003)
